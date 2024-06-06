@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NZAMBAZAMARIYA Rosine</h1>
 <h3 align="center">Heavily frontend developer from Rwanda</h3>
-<img align="right " width="800" height =" 70" alt="coding" src="https://i.pinimg.com/564x/f4/ce/4d/f4ce4db725fbe9cdf0788aec2009cb71.jpg">
+<img align="right " width="800" height =" 970" alt="coding" src="https://i.pinimg.com/564x/f4/ce/4d/f4ce4db725fbe9cdf0788aec2009cb71.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajurosine&label=Profile%20views&color=0e75b6&style=flat" alt="gajurosine" /> </p>
 
 - 🔭 I’m currently working on [Face_Recognition](https://github.com/gajurosine/face-recognition)
